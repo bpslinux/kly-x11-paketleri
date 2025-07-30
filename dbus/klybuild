@@ -19,7 +19,7 @@ setup()
         --disable-doxygen-docs               \
         --disable-xml-docs                   \
         --disable-static        \
-        --disable-selinux             \
+        --disable-systemd             \
         --with-system-pid-file=/run/dbus/dbus.pid \
         --with-x \
         --with-systemduserunitdir=no         \
