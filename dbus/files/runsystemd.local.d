@@ -6,4 +6,3 @@ chmod 700 /root
 chmod 755 /bin
 chmod 755 /sbin
 chmod 1777 /tmp
-
